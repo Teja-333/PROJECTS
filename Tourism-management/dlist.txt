@@ -1,0 +1,7 @@
+shyam		123456789	guntur
+ramu		12345567	vijayawada
+shanu		124435566	srm
+ramesh		3245678890	srm
+raja		2345554363	guntur
+rahul		1223344556	srm
+ramesh		9010203004	vijayawada
