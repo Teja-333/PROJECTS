@@ -27,4 +27,5 @@ SAMPLE INPUT AND OUTPUT:
 <img width="771" alt="Screenshot 2023-05-02 at 9 21 56 PM" src="https://user-images.githubusercontent.com/132332081/235721690-a7352614-4e97-4c6d-873d-2740718d0c97.png">
 
 END USER
+
 • We designed Scenorita for only mac operating system So, only mac users can make use of Scenorita.
