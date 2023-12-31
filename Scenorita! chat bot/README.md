@@ -12,6 +12,12 @@ google as search engine.
 ✓It shows weather reports.
 And many more............
 
+Sample videos
+
+
+https://github.com/Teja-333/PROJECTS/assets/132332081/aabe1059-16e7-4e10-aa0f-cc22bfc5e396
+
+
 MODULES
 • INSTALLATION
 • ADDING OR MODIFYING MAIL
