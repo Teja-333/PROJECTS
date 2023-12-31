@@ -1,5 +1,3 @@
-
-https://github.com/Teja-333/PROJECTS/assets/132332081/70ee4894-8577-4b8a-b1c9-e67fcf46a7bc
 # Scenorita is a chat bot. Generally chat bots are two types, voice based and text based. scenorita is a text based chat bot. It stimulates conversation with the user via, voice and text when, user enters the Input in text format. Scenorita has been created by us in the view of some of assistants like Alexa, Siri, Google assistant...
 # Scenorita analyzes the input given by the user then gathers and displays the best possible outcome.it address the user with the entered name throughout the conversation. It is basically for the personal use.
 
@@ -14,8 +12,7 @@ google as search engine.
 ✓It shows weather reports.
 And many more............
 
-Sample videos
-
+# Sample videos
 
 https://github.com/Teja-333/PROJECTS/assets/132332081/5c5dbba8-cc1b-470e-943c-dacbad2bbb47
 
