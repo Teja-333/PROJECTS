@@ -3,13 +3,13 @@
 
 # Scenorita can perform many tasks, some of them are :
 
-✓It opens and closes the applications.
-✓It can search any info asked by the user by using
+### ✓It opens and closes the applications.
+### ✓It can search any info asked by the user by using
 google as search engine.
-✓We can listen to music through spotify. 
-✓Scenorita can play Youtube videos. 
-✓We can directly send mail by Scenorita. 
-✓It shows weather reports.
+### ✓We can listen to music through spotify. 
+### ✓Scenorita can play Youtube videos. 
+### ✓We can directly send mail by Scenorita. 
+### ✓It shows weather reports.
 And many more............
 
 # Sample videos
